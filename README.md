@@ -1,2 +1,2 @@
 # TP_AySO
-TP! ARQ Y SO 25
+TP ARQ Y SO 25
