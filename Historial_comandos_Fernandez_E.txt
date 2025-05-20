@@ -1,0 +1,244 @@
+ls -l
+cd clase
+ls -l
+rm archivo3
+rm vacio
+rm vacio.txt
+mkdirtree
+tree
+snap install tree
+snap install tree sudo
+apt install tree sudo
+sudo snap install tree
+tree
+whoamo
+id
+passwd
+cat /etc/grow
+cat /etc/grog
+cat /etc/group
+sudo cat /etc/shadow
+cd clase
+cd vagrant
+twd
+gwd
+sudo groupadd alumnos
+catcat etc/group
+cat /etc/group
+useradd -m -s /bin/bash -c "Alumno Ezequiel" -G Alumnos Ezequiel
+useradd -m -s /bin/bash -c "alumno Ezequiel" -G alumnos Ezequiel[200~passwd Ezequiel
+passwd Ezequiel
+exit
+cdcdwdwwwgrpggggrrrrru addddddddddddaaadadad/a
+p
+exit
+“ssh-keygen -t ed25519
+[200~
+ssh-keygen -t ed25519
+ls -la
+cat .ssh
+cd .ssh
+ls -l
+cat $HOME/.ssh/*.pub
+gwd
+cd
+gwd
+mkdir repogit
+cd repogit
+ls -l
+cd UTN-FRA_SO_onBording
+cd
+cd repogit
+git clone git@github.com:EzequielAdrianFernandez/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep id Home_url /etc/os-release
+whoami
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.txt
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+git add . 
+git config --global user.email "ezequieladrianfernandez896@gmail.com" git config --global user.name "EzequielAdrianFernandez" 
+[200~git commit -m "ADD: agregado 1er
+
+exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXIT
+ADD
+q
+cd
+cd repogit
+ejercicio sobre datos_usuarios.txt"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git config --global user.name "EzequielAdrianFernandez"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_url.txt"
+git push
+exit
+ls -l
+git status
+head README
+cat<<EOF>> README.md
+alumno:Ezequiel
+divicion:211
+turno:Tarde
+EOF
+
+git add README.md
+git init
+rm -rf .git
+ls-l
+cd
+ls-l
+exit
+cd repogit
+cd TP_AySO/
+ls -l
+cat /etc/os-release
+grep -i home_url /etc/os-release > datos_url.txt
+whoami
+git status
+ls -l
+grep
+tail -n1
+vagrant sshcd repogit
+ls -cd
+pwd
+ls -l
+whoami
+ls -l
+cd datos_usuarios
+ls -l
+cd datos_usuarios.txt
+cpuinfo
+cpu-info
+sudo apt install cpu-info
+status
+vagrant status
+cpu-info
+sudo apt cpuinfo
+sdo ap l cp-info
+sudo apt install pvrant alt
+exit
+cd l
+whlgitgtus
+dcdcdcdddddam
+gregregregrergegrep
+ls -l
+scds ooooooooddddddsudsusuuupo      ddinstallinfi
+ls -l
+ls 
+c
+uddddd aaa    ttcccccccccccccppppppiiif
+agrraanncccccccccñasfjknwéofignweposussssssssuud oooooooo      iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiaaalllccccccccifoffooooooooooooooo
+intlp-info
+utinstalucu-info
+cd repogit
+ls -l
+cd TP_AySO/
+ls -l
+history
+sudo install cpu-info
+sudo apt update
+sudo apt install util-linux
+ls cpu
+lscpu
+grep "model name" /proc/cpuinfo
+grep "model name" /prog/cpuinfo | head -n 1 >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: añadiendo informacion de CPU
+exit
+
+git commit -m 'feat: añadiendo información de CPU'
+cat <<EOF>> README.md
+alumno: Ezequiel Fernandez
+divicion:211
+tutno: tarde
+EOF
+
+git add README.md
+git commit -m 'ADD: añadiendo informacion del alumno al README'
+git push
+git pull
+git push
+git pull
+git pull original main
+git pull origin main
+whoami
+git remote -v
+history
+git push
+git pull
+git pull --rebase origin main
+git pull origin main
+ls -l
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m 'feat: añadiendo información de CPU'
+git push
+cat <<EOF>> README.md
+Alumno:Ezequiel
+Divicion:211
+Turno:tarde
+XOF
+EOF
+
+git push
+git add REEDME.md
+git add README.md
+git commit -m "agrege la informacion del alumno"
+git push origin main
+mkdir -p material1/{uni1,uni2,uni3} material2/{uni1,uni2,uni3}
+ls -l
+tree
+git add .
+git commit -m "agrege lo que nos indico hacer el punto 7 del TP1"
+git push origin main
+ls -l
+git add .
+git pull --rebase
+ls -l
+git push
+ls -l
+history
+mkdir scripts
+touch scripts/script_dir.sh
+nano cripts/script_dir.sh
+nano scripts/script_dir.sh
+ls -l
+chmod +x scripts/script_dir.sh
+git add scripts/
+git commit -m'agrege un script que crea una estructura de material 1 y 2'
+git push origin main
+history -a
+history
+history -a
